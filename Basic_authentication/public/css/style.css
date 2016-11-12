@@ -1,0 +1,50 @@
+html {
+  position: relative;
+  min-height: 100%;
+	}
+
+body {
+  margin-bottom: 60px;
+  font-family: 'Open Sans', sans-serif;
+	}
+
+body > .container {
+  padding: 60px 15px 0;
+  width: 60%;
+	}
+
+label {
+	font-weight: 400;
+	font-size: 13px;
+	color: #5a5f70;
+	}
+
+.form-control {
+	width: 75%;
+	font-size: 13px;
+	color: #3A505E;
+	-webkit-box-shadow: none;
+	    moz-box-shadow: none;
+			box-shadow: none;
+	}
+
+textarea:focus, input:focus, .uneditable-input:focus {   
+    border-color: rgba(204, 204, 204, 0.8) !important;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0.6) !important;
+    outline: 0 none !important;
+}
+
+.col-sm-offset-3 {
+	padding-left: 8px;
+}
+
+.alert {
+	padding: 8px;
+	padding-left: 18px;
+	font-size: 12px;
+}
+
+.fa {
+	padding-top: 20px;
+	color: #8CA0AD;
+}
