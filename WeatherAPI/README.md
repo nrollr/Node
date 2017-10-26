@@ -1,3 +1,4 @@
+
 ## Description
 
 * Simple Node.js application to display the current weather status on a webpage, using the [OpenWeatherMaps](https://openweathermap.org/) API. Use of the API requires an [account](https://home.openweathermap.org/users/sign_up) and corresponding [API keys](https://home.openweathermap.org/api_keys)
@@ -25,3 +26,8 @@ The application has been tested with Node.js `v6.11.4`
 
 
 [express](https://www.npmjs.com/package/express), [ejs](https://www.npmjs.com/package/ejs) are [Semantic UI](https://semantic-ui.com/) are used to generate the landing page
+
+## Result
+A screenshot of the results, once the application is started:
+![image](![image](https://github.com/nrollr/Node/raw/master/WeatherAPI/Screenshot.png)
+)
