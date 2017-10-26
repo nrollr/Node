@@ -29,4 +29,4 @@ The application has been tested with Node.js `v6.11.4`
 
 ## Result
 A screenshot of the results, once the application is started:
-![image](https://github.com/nrollr/Node/blob/master/WeatherAPI/Screenshot.png)
+![image](https://raw.githubusercontent.com/nrollr/Node/master/WeatherAPI/Screenshot.png)
