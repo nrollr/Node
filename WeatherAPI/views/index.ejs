@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+		
+		<title>Weather status</title>
+		<link rel="stylesheet" href="/css/semantic.css">
+		<link rel="stylesheet" href="/css/style.css">
+	</head>
+	<body>
+		</br>
+		</br>	
+		<!-- Begin content -->
+		<div class="ui text container">
+			<h2 class="ui dividing header">Current weather</h2>
+			</br>
+			</br>
+			<div class="ui three column centered grid">
+			  	<div class="column">
+					<!-- Insert weatherIcon -->
+					<img class="ui centered medium image" src="/svg/weather-icon-<%= icon %>.svg" />
+					</br>
+					</br>	
+					<!-- Insert weatherStatus -->
+					<p class="weather"><%= data %></p>
+			  	</div>
+			</div>  	
+		</div>
+ 	</body>
+</html>
+
