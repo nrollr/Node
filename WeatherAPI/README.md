@@ -14,8 +14,6 @@
 * Launch the application with `node server.js` and open [http://localhost:3000](http://localhost:3000) to access the landing page.
 
 
-
-
 ### Dependencies
 
 The application has been tested with Node.js `v6.11.4`
