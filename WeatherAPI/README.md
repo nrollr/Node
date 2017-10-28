@@ -29,4 +29,4 @@ The application has been tested with Node.js `v6.11.4`
 
 ## Result
 A screenshot of the results, once the application is started:
-<div align="center"><img src="screenshot.png" width="980"/></div>
+<div align="center"><img src="Screenshot.png" width="980"/></div>
